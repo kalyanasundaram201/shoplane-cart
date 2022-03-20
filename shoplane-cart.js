@@ -59,5 +59,5 @@ var cnt=0
 document.getElementById("cartlist").innerText=totlcnt
 
 function placeorder(){
-  location.assign("./shoplane-order-confirmation.html")
+  location.assign("https://docs.github.com/en/github-ae@latest/repositories/working-with-files/managing-files/editing-files")
 }
